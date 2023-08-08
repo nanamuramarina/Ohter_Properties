@@ -14,7 +14,6 @@ div {
 
 #static .middle {
     position: static;
-    top: 100px;
 }
 
 #relative .middle {
@@ -33,7 +32,7 @@ div {
     left: 1px;
 }
 
-#fixed .middle {
+#fixed .middle{
     position: fixed;
     top: 0;
     left: 0;
